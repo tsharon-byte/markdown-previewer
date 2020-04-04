@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tsharon-byte/markdown-previewer/precache-manifest.510e0279c4a7416d6d83bf8b47549ec5.js"
+  "/tsharon-byte/markdown-previewer/precache-manifest.241987735c5f7ef58bd052f93a5d0008.js"
 );
 
 self.addEventListener('message', (event) => {
