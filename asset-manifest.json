@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tsharon-byte/markdown-previewer/static/css/main.a44b8210.chunk.css",
+    "main.js": "/tsharon-byte/markdown-previewer/static/js/main.f0d9d506.chunk.js",
+    "main.js.map": "/tsharon-byte/markdown-previewer/static/js/main.f0d9d506.chunk.js.map",
+    "runtime-main.js": "/tsharon-byte/markdown-previewer/static/js/runtime-main.c588b7de.js",
+    "runtime-main.js.map": "/tsharon-byte/markdown-previewer/static/js/runtime-main.c588b7de.js.map",
+    "static/js/2.74f23df9.chunk.js": "/tsharon-byte/markdown-previewer/static/js/2.74f23df9.chunk.js",
+    "static/js/2.74f23df9.chunk.js.map": "/tsharon-byte/markdown-previewer/static/js/2.74f23df9.chunk.js.map",
+    "index.html": "/tsharon-byte/markdown-previewer/index.html",
+    "precache-manifest.0c11249e9794c0ab5ea8e6f6af1d5c54.js": "/tsharon-byte/markdown-previewer/precache-manifest.0c11249e9794c0ab5ea8e6f6af1d5c54.js",
+    "service-worker.js": "/tsharon-byte/markdown-previewer/service-worker.js",
+    "static/css/main.a44b8210.chunk.css.map": "/tsharon-byte/markdown-previewer/static/css/main.a44b8210.chunk.css.map",
+    "static/js/2.74f23df9.chunk.js.LICENSE.txt": "/tsharon-byte/markdown-previewer/static/js/2.74f23df9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c588b7de.js",
+    "static/js/2.74f23df9.chunk.js",
+    "static/css/main.a44b8210.chunk.css",
+    "static/js/main.f0d9d506.chunk.js"
+  ]
+}

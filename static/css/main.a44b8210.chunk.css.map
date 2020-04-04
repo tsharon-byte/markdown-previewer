@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,SACI,eAAgB,CAChB,UAAW,CACX,YAAa,CACb,YAAkB,CAClB,eAAgB,CAChB,wBACJ","file":"main.a44b8210.chunk.css","sourcesContent":["textarea {\r\n    resize: vertical;\r\n    width: 45vw;\r\n    height: 100vh;\r\n    padding: 10px 10px;\r\n    margin-top: 20px;\r\n    background-color: aliceblue;\r\n}"]}
